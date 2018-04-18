@@ -1,0 +1,791 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="geraldine-designs.com" resolutions="1x" timestamp="1524027377086">
+  <folder name="css">
+    <file name="site_global.css" crc="267514653"/>
+    <file name="master_static.css" crc="3972777232" ref="shape:hand-lettering:animation-video:contact-me:about-me:groomd:mex:first-project-the-lot:other-projects"/>
+    <file name="master_animation.css" crc="4119092828" ref="index"/>
+    <file name="shape.css" crc="4109674415" ref="shape"/>
+    <file name="hand-lettering.css" crc="283034017" ref="hand-lettering"/>
+    <file name="animation-video.css" crc="173391118" ref="animation-video"/>
+    <file name="contact-me.css" crc="4056991548" ref="contact-me"/>
+    <file name="about-me.css" crc="3789440306" ref="about-me"/>
+    <file name="groomd.css" crc="4001448212" ref="groomd"/>
+    <file name="mex.css" crc="3914416803" ref="mex"/>
+    <file name="first-project-the-lot.css" crc="412992127" ref="first-project-the-lot"/>
+    <file name="index.css" crc="154097633" ref="index"/>
+    <file name="other-projects.css" crc="4084940560" ref="other-projects"/>
+  </folder>
+  <folder name="assets">
+    <folder name="new-new">
+      <folder name="edge_includes">
+        <file name="edge.3.0.0.min.js" crc="4051405324" mt="1400082371000"/>
+        <file name="jquery-2.0.3.min.js" crc="155013199" mt="1400082371000"/>
+      </folder>
+      <folder name="images">
+        <file name="geraldine.png" crc="430164828" mt="1400082371000"/>
+        <file name="icon.png" crc="3867930929" mt="1400082371000"/>
+        <file name="Poster.png" crc="3867930929" mt="1400082371000"/>
+      </folder>
+      <file name="new new_edge.js" crc="4009651910" mt="1400082371000"/>
+      <file name="new new_edgeActions.js" crc="3805130796" mt="1400082371000"/>
+      <file name="new new_edgePreload.js" crc="3890096976" mt="1400082371000"/>
+      <file name="new new.html" crc="4140492387" mt="1400082371000"/>
+    </folder>
+    <folder name="buble-animation">
+      <folder name="media">
+        <file name="New_Recording_11-2.mp3" crc="3947639232" mt="1400081665000"/>
+      </folder>
+      <folder name="edge_includes">
+        <file name="edge.3.0.0.min.js" crc="4051405324" mt="1400081665000"/>
+        <file name="jquery-2.0.3.min.js" crc="155013199" mt="1400081665000"/>
+      </folder>
+      <folder name="images">
+        <file name="BUBLE.png" crc="381530071" mt="1400081665000"/>
+        <file name="icon.png" crc="420324700" mt="1400081665000"/>
+        <file name="Poster.png" crc="420324700" mt="1400081665000"/>
+      </folder>
+      <file name="buble animation_edge.js" crc="4106727242" mt="1400081665000"/>
+      <file name="buble animation_edgeActions.js" crc="4291361717" mt="1400081665000"/>
+      <file name="buble animation_edgePreload.js" crc="440995520" mt="1400081665000"/>
+      <file name="buble animation.html" crc="4072307543" mt="1400081665000"/>
+    </folder>
+    <folder name="iphone-animation">
+      <folder name="media">
+        <file name="My Song 5.mp3" crc="225826815" mt="1399689025000"/>
+      </folder>
+      <folder name="edge_includes">
+        <file name="edge.3.0.0.min.js" crc="4051405324" mt="1399689025000"/>
+        <file name="jquery-2.0.3.min.js" crc="155013199" mt="1399689025000"/>
+      </folder>
+      <folder name="images">
+        <file name="cabeza.png" crc="4007257435" mt="1399689025000"/>
+        <file name="HANDS.png" crc="389569740" mt="1399689025000"/>
+        <file name="logo outline.png" crc="4290336005" mt="1399689025000"/>
+        <file name="PALITO.png" crc="4007886757" mt="1399689025000"/>
+        <file name="Poster.png" crc="4155514269" mt="1399689025000"/>
+        <file name="Poster2.png" crc="174737188" mt="1399689025000"/>
+        <file name="Poster3.png" crc="117237411" mt="1399689025000"/>
+        <file name="Poster4.png" crc="117237411" mt="1399689025000"/>
+        <file name="Poster5.png" crc="117237411" mt="1399689025000"/>
+      </folder>
+      <file name="iphone animation_edge.js" crc="437136886" mt="1399689025000"/>
+      <file name="iphone animation_edgeActions.js" crc="171068219" mt="1399689025000"/>
+      <file name="iphone animation_edgePreload.js" crc="458469443" mt="1399689025000"/>
+      <file name="iphone animation.html" crc="4147373449" mt="1399689025000"/>
+    </folder>
+    <folder name="geraldine-newanimation">
+      <folder name="media">
+        <file name="My Song 5.mp3" crc="225826815" mt="1399678701000"/>
+      </folder>
+      <folder name="edge_includes">
+        <file name="edge.3.0.0.min.js" crc="4051405324" mt="1399678701000"/>
+        <file name="jquery-2.0.3.min.js" crc="155013199" mt="1399678701000"/>
+      </folder>
+      <folder name="images">
+        <file name="cabeza.png" crc="4007257435" mt="1399678701000"/>
+        <file name="HANDS.png" crc="389569740" mt="1399678701000"/>
+        <file name="logo outline.png" crc="4290336005" mt="1399678701000"/>
+        <file name="PALITO.png" crc="4007886757" mt="1399678701000"/>
+        <file name="Poster.png" crc="4155514269" mt="1399678701000"/>
+      </folder>
+      <file name="geraldine newanimation_edge.js" crc="502208933" mt="1399678701000"/>
+      <file name="geraldine newanimation_edgeActions.js" crc="4092595735" mt="1399678701000"/>
+      <file name="geraldine newanimation_edgePreload.js" crc="3821545615" mt="1399678701000"/>
+      <file name="geraldine newanimation.html" crc="218978849" mt="1399678701000"/>
+    </folder>
+    <file name="final-bottle-geraldine.pdf" crc="377211922" seo="true" mt="1395270573000"/>
+    <file name="attache-3-final-2.pdf" crc="293093700" seo="true" mt="1400109054000"/>
+    <file name="editorial-tabloid.pdf" crc="4129489371" seo="true" mt="1336994770000"/>
+    <file name="book-recipe.pdf" crc="3792469059" seo="true" mt="1324034820000"/>
+    <file name="good-bad-and-ugly-final.pdf" crc="4131203840" seo="true" mt="1403232803000"/>
+    <file name="final-pitch-motion.pdf" crc="333512832" seo="true" mt="1387234775000"/>
+    <file name="re-design_resume_test.pdf" crc="105575458" seo="true" mt="1522207405000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>portfolio:phone>groomd:phone>shape:phone>about-me:phone>contact-me:phone>mex:phone>the-lot:index:first-project-the-lot:mex:groomd:shape:about-me:contact-me:other-projects:hand-lettering:animation-video"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>portfolio:phone>groomd:phone>shape:phone>about-me:phone>contact-me:phone>mex:phone>the-lot:index:first-project-the-lot:mex:groomd:shape:about-me:contact-me:other-projects:hand-lettering:animation-video"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>portfolio:phone>groomd:phone>shape:phone>about-me:phone>contact-me:phone>mex:phone>the-lot:index:first-project-the-lot:mex:groomd:shape:about-me:contact-me:other-projects:hand-lettering:animation-video"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:phone>portfolio:phone>groomd:phone>shape:phone>about-me:phone>contact-me:phone>mex:phone>the-lot:index:first-project-the-lot:mex:groomd:shape:about-me:contact-me:other-projects:hand-lettering:animation-video"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:phone>portfolio:phone>groomd:phone>shape:phone>about-me:phone>contact-me:phone>mex:phone>the-lot:index:first-project-the-lot:mex:groomd:shape:about-me:contact-me:other-projects:hand-lettering:animation-video"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>portfolio:phone>groomd:phone>shape:phone>about-me:phone>contact-me:phone>mex:phone>the-lot:index:first-project-the-lot:mex:groomd:shape:about-me:contact-me:other-projects:hand-lettering:animation-video"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>portfolio:phone>groomd:phone>shape:phone>about-me:phone>contact-me:phone>mex:phone>the-lot:index:first-project-the-lot:mex:groomd:shape:about-me:contact-me:other-projects:hand-lettering:animation-video"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>portfolio:index:first-project-the-lot:mex:groomd:shape:contact-me:other-projects:hand-lettering:animation-video"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>portfolio:index:first-project-the-lot:mex:groomd:shape:other-projects:hand-lettering:animation-video"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>portfolio:index:first-project-the-lot:mex:groomd:shape:other-projects:hand-lettering:animation-video"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>portfolio:index:first-project-the-lot:mex:groomd:shape:other-projects:hand-lettering:animation-video"/>
+    <file name="form_check.php" crc="4020933626" ref="contact-me"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact-me"/>
+    <file name="form_process.php" crc="37464564" ref="contact-me"/>
+    <file name="form-u8783.php" crc="3948087543" ref="contact-me"/>
+  </folder>
+  <folder name="images">
+    <file name="line.png" crc="154282443" seo="true" ref="phone>index:phone>portfolio:phone>groomd:phone>shape:phone>about-me:phone>contact-me:phone>mex:phone>the-lot:index:first-project-the-lot:mex:groomd:shape:about-me:contact-me:other-projects:hand-lettering:animation-video">
+      <caption webpage="first-project-the-lot" alt=""/>
+      <caption webpage="the-lot" alt=""/>
+      <caption webpage="animation-video" alt=""/>
+      <caption webpage="shape" alt=""/>
+      <caption webpage="shape" alt=""/>
+      <caption webpage="contact-me" alt=""/>
+      <caption webpage="contact-me" alt=""/>
+      <caption webpage="other-projects" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="hand-lettering" alt=""/>
+      <caption webpage="groomd" alt=""/>
+      <caption webpage="groomd" alt=""/>
+      <caption webpage="mex" alt=""/>
+      <caption webpage="mex" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="background.jpg" crc="4003837214" ref="phone>index:phone>portfolio:phone>groomd:phone>shape:phone>about-me:phone>contact-me:phone>mex:phone>the-lot:first-project-the-lot:mex:groomd:shape:about-me:contact-me:other-projects:hand-lettering:animation-video">
+      <caption webpage="first-project-the-lot" alt=""/>
+      <caption webpage="the-lot" alt=""/>
+      <caption webpage="animation-video" alt=""/>
+      <caption webpage="shape" alt=""/>
+      <caption webpage="shape" alt=""/>
+      <caption webpage="contact-me" alt=""/>
+      <caption webpage="contact-me" alt=""/>
+      <caption webpage="other-projects" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="hand-lettering" alt=""/>
+      <caption webpage="groomd" alt=""/>
+      <caption webpage="groomd" alt=""/>
+      <caption webpage="mex" alt=""/>
+      <caption webpage="mex" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="drive-in-cinema- poster.jpg" crc="434573030" seo="true" ref="phone>portfolio:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>portfolio:index:first-project-the-lot:mex:groomd:shape:other-projects:hand-lettering:animation-video"/>
+    <file name="cover shape.jpg" crc="190457736" seo="true" ref="phone>portfolio:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="mex-1 foto.jpg" crc="235753335" seo="true" ref="phone>portfolio:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="groomd-cover.jpg" crc="3947158496" seo="true" ref="phone>portfolio:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="drive-in-cinema- poster-crop-u7495.jpg" crc="122769928" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="cover shape-crop-u7491.jpg" crc="4022898566" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="mex-1 foto-crop-u7497.jpg" crc="4017151699" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="groomd-cover-crop-u7493.jpg" crc="184778093" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>portfolio:index:first-project-the-lot:mex:groomd:shape:other-projects:hand-lettering:animation-video"/>
+    <file name="shape-1-u7519-fr.jpg" crc="463895684" ref="phone>portfolio"/>
+    <file name="the-lot-logo-u7544-fr.jpg" crc="314051705" ref="phone>portfolio"/>
+    <file name="mex-1-u7551-fr.jpg" crc="195029665" ref="phone>portfolio"/>
+    <file name="groomd1-u7573-fr.jpg" crc="50266933" ref="phone>portfolio"/>
+    <file name="u7634-6.png" crc="297695141" ref="phone>groomd"/>
+    <file name="groomd-business-card380x241.jpg" crc="4179150417" seo="true" ref="phone>groomd">
+      <caption webpage="groomd" alt=""/>
+    </file>
+    <file name="new-groomd-ipad-phone-12.jpg" crc="4174137205" seo="true" ref="phone>groomd">
+      <caption webpage="groomd" alt=""/>
+    </file>
+    <file name="new-groomd-ipad-4.jpg" crc="173228824" seo="true" ref="phone>groomd">
+      <caption webpage="groomd" alt=""/>
+    </file>
+    <file name="website-2-groomd-phone.jpg" crc="442621228" seo="true" ref="phone>groomd">
+      <caption webpage="groomd" alt=""/>
+    </file>
+    <file name="groomd-websites phone.jpg" crc="4030814106" seo="true" ref="phone>groomd">
+      <caption webpage="groomd" alt=""/>
+    </file>
+    <file name="facebook-page-groomd-phone.jpg" crc="4193798983" seo="true" ref="phone>groomd">
+      <caption webpage="groomd" alt=""/>
+    </file>
+    <file name="new-membership-phone.jpg" crc="3968901017" seo="true" ref="phone>groomd">
+      <caption webpage="groomd" alt=""/>
+    </file>
+    <file name="groomd-cosmetic377x229.jpg" crc="283748041" seo="true" ref="phone>groomd">
+      <caption webpage="groomd" alt=""/>
+    </file>
+    <file name="u7874-5.png" crc="4168322989" ref="phone>shape"/>
+    <file name="new-stationaryshape-iphone.jpg" crc="87878764" seo="true" ref="phone>shape">
+      <caption webpage="shape" alt=""/>
+    </file>
+    <file name="shape-app-iphone.jpg" crc="445531238" seo="true" ref="phone>shape">
+      <caption webpage="shape" alt=""/>
+    </file>
+    <file name="1-shape-website.jpg" crc="44259361" seo="true" ref="phone>shape">
+      <caption webpage="shape" alt=""/>
+    </file>
+    <file name="2shape-website.jpg" crc="32019923" seo="true" ref="phone>shape">
+      <caption webpage="shape" alt=""/>
+    </file>
+    <file name="new-1-tshirt-mockup-shape-iphone.jpg" crc="3918133230" seo="true" ref="phone>shape">
+      <caption webpage="shape" alt=""/>
+    </file>
+    <file name="shape-label-tags--iphone.jpg" crc="449123979" seo="true" ref="phone>shape">
+      <caption webpage="shape" alt=""/>
+    </file>
+    <file name="iphone-shape-bags.jpg" crc="4136235176" seo="true" ref="phone>shape">
+      <caption webpage="shape" alt=""/>
+    </file>
+    <file name="u8826-4.png" crc="3842354974" ref="phone>about-me"/>
+    <file name="facebook button-u8831-fr.jpg" crc="166097621" ref="phone>about-me"/>
+    <file name="facebook button-u8831-r-fr.png" crc="3800199184" ref="phone>about-me"/>
+    <file name="linkin button-u8830-fr.jpg" crc="3957717857" ref="phone>about-me"/>
+    <file name="linkin button-u8830-r-fr.png" crc="4192284689" ref="phone>about-me"/>
+    <file name="twitter button-u8829-fr.jpg" crc="4262274362" ref="phone>about-me"/>
+    <file name="twitter button-u8829-r-fr.png" crc="252339277" ref="phone>about-me"/>
+    <file name="cabeza.png" crc="4127598591" seo="true" ref="phone>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="geraldine-rectangle-2.jpg" crc="3771977569" seo="true" ref="phone>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="hands.png" crc="365829516" seo="true" ref="phone>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="u8129-14.png" crc="4036399600" ref="phone>contact-me"/>
+    <file name="new-caricature.png" crc="3877252115" seo="true" ref="phone>contact-me">
+      <caption webpage="contact-me" alt=""/>
+    </file>
+    <file name="u7988-8.png" crc="415822509" ref="phone>mex"/>
+    <file name="iphone-mex-website-1.jpg" crc="232283528" seo="true" ref="phone>mex">
+      <caption webpage="mex" alt=""/>
+    </file>
+    <file name="iphone-website-2.jpg" crc="3787941384" seo="true" ref="phone>mex">
+      <caption webpage="mex" alt=""/>
+    </file>
+    <file name="business-card-iphone.jpg" crc="6530996" seo="true" ref="phone>mex">
+      <caption webpage="mex" alt=""/>
+    </file>
+    <file name="paper-bag-mex.jpg" crc="412314553" seo="true" ref="phone>mex">
+      <caption webpage="mex" alt=""/>
+    </file>
+    <file name="discount-mex.jpg" crc="392849007" seo="true" ref="phone>mex">
+      <caption webpage="mex" alt=""/>
+    </file>
+    <file name="mex-app-1-page-iphone.jpg" crc="3939009567" seo="true" ref="phone>mex">
+      <caption webpage="mex" alt=""/>
+    </file>
+    <file name="mex-app-2-page-iphone-.jpg" crc="3768092800" seo="true" ref="phone>mex">
+      <caption webpage="mex" alt=""/>
+    </file>
+    <file name="img_2652380x237.jpg" crc="4094478916" seo="true" ref="phone>the-lot">
+      <caption webpage="the-lot" alt=""/>
+    </file>
+    <file name="img_2651.jpg" crc="252991046" seo="true" ref="phone>the-lot">
+      <caption webpage="the-lot" alt=""/>
+    </file>
+    <file name="img_2657380x226.jpg" crc="291841763" seo="true" ref="phone>the-lot">
+      <caption webpage="the-lot" alt=""/>
+    </file>
+    <file name="img_2644379x227.jpg" crc="3849273159" seo="true" ref="phone>the-lot">
+      <caption webpage="the-lot" alt=""/>
+    </file>
+    <file name="ad-for-the-lot.jpg" crc="3792574112" seo="true" ref="phone>the-lot">
+      <caption webpage="the-lot" alt=""/>
+    </file>
+    <file name="iphone-the-lot.jpg" crc="3763292643" seo="true" ref="phone>the-lot">
+      <caption webpage="the-lot" alt=""/>
+    </file>
+    <file name="img_2656379x236.jpg" crc="4244655723" seo="true" ref="phone>the-lot">
+      <caption webpage="the-lot" alt=""/>
+    </file>
+    <file name="notebook.png" crc="195175806" seo="true" ref="index:first-project-the-lot:mex:groomd:shape:about-me:contact-me:other-projects:hand-lettering:animation-video">
+      <caption webpage="first-project-the-lot" alt=""/>
+      <caption webpage="animation-video" alt=""/>
+      <caption webpage="shape" alt=""/>
+      <caption webpage="mex" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact-me" alt=""/>
+      <caption webpage="hand-lettering" alt=""/>
+      <caption webpage="groomd" alt=""/>
+      <caption webpage="other-projects" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="drive-in-cinema- poster-crop-u5310.jpg" crc="155042094" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cover shape-crop-u5254.jpg" crc="63021766" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mex-1 foto-crop-u5331.jpg" crc="377600328" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="groomd-cover-crop-u5346.jpg" crc="4130293759" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shape-1.jpg" crc="30061239" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="the-lot-logo.jpg" crc="467190283" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mex-1.jpg" crc="4105956521" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="groomd1.jpg" crc="3792930113" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background2.jpg" crc="4057644771" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="geraldine-logo.png" crc="378942379" seo="true" ref="first-project-the-lot:mex:groomd:shape:about-me:contact-me:other-projects:hand-lettering:animation-video">
+      <caption webpage="animation-video" alt=""/>
+      <caption webpage="contact-me" alt=""/>
+      <caption webpage="mex" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="first-project-the-lot" alt=""/>
+      <caption webpage="hand-lettering" alt=""/>
+      <caption webpage="groomd" alt=""/>
+      <caption webpage="other-projects" alt=""/>
+      <caption webpage="shape" alt=""/>
+    </file>
+    <file name="logo outline.png" crc="4290336005" seo="true" ref="first-project-the-lot:mex:groomd:shape:about-me:contact-me:other-projects:hand-lettering:animation-video">
+      <caption webpage="animation-video" alt=""/>
+      <caption webpage="contact-me" alt=""/>
+      <caption webpage="mex" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="first-project-the-lot" alt=""/>
+      <caption webpage="hand-lettering" alt=""/>
+      <caption webpage="groomd" alt=""/>
+      <caption webpage="other-projects" alt=""/>
+      <caption webpage="shape" alt=""/>
+    </file>
+    <file name="driveincinema-title.jpg" crc="4196717818" seo="true" ref="first-project-the-lot">
+      <caption webpage="first-project-the-lot" alt=""/>
+    </file>
+    <file name="img_2647-crop-u8508.jpg" crc="404012885" seo="true" ref="first-project-the-lot">
+      <caption webpage="first-project-the-lot" alt=""/>
+    </file>
+    <file name="img_2648-crop-u8613.jpg" crc="4223293336" seo="true" ref="first-project-the-lot">
+      <caption webpage="first-project-the-lot" alt=""/>
+    </file>
+    <file name="img_2644.jpg" crc="4003738321" seo="true" ref="first-project-the-lot">
+      <caption webpage="first-project-the-lot" alt=""/>
+    </file>
+    <file name="img_2652-crop-u8631.jpg" crc="325699136" seo="true" ref="first-project-the-lot">
+      <caption webpage="first-project-the-lot" alt=""/>
+    </file>
+    <file name="img_2654-crop-u8640.jpg" crc="3954218733" seo="true" ref="first-project-the-lot">
+      <caption webpage="first-project-the-lot" alt=""/>
+    </file>
+    <file name="img_2656-crop-u8649.jpg" crc="229419542" seo="true" ref="first-project-the-lot">
+      <caption webpage="first-project-the-lot" alt=""/>
+    </file>
+    <file name="img_2657-crop-u8658.jpg" crc="180182093" seo="true" ref="first-project-the-lot">
+      <caption webpage="first-project-the-lot" alt=""/>
+    </file>
+    <file name="img_2660-crop-u8667.jpg" crc="382732771" seo="true" ref="first-project-the-lot">
+      <caption webpage="first-project-the-lot" alt=""/>
+    </file>
+    <file name="the-lot-app.jpg" crc="393879865" seo="true" ref="first-project-the-lot">
+      <caption webpage="first-project-the-lot" alt=""/>
+    </file>
+    <file name="ad-subway-drive-in.jpg" crc="310356668" seo="true" ref="first-project-the-lot">
+      <caption webpage="first-project-the-lot" alt=""/>
+    </file>
+    <file name="sub-1-ad.jpg" crc="4260888687" seo="true" ref="first-project-the-lot">
+      <caption webpage="first-project-the-lot" alt=""/>
+    </file>
+    <file name="left-arrow.jpg" crc="4113842974" ref="first-project-the-lot:mex:groomd:shape:hand-lettering">
+      <caption webpage="first-project-the-lot" alt=""/>
+      <caption webpage="hand-lettering" alt=""/>
+      <caption webpage="groomd" alt=""/>
+      <caption webpage="mex" alt=""/>
+      <caption webpage="shape" alt=""/>
+    </file>
+    <file name="right-arrow.jpg" crc="3933765477" ref="first-project-the-lot:mex:groomd:shape:hand-lettering">
+      <caption webpage="first-project-the-lot" alt=""/>
+      <caption webpage="hand-lettering" alt=""/>
+      <caption webpage="groomd" alt=""/>
+      <caption webpage="mex" alt=""/>
+      <caption webpage="shape" alt=""/>
+    </file>
+    <file name="close-button-u8498-fr.jpg" crc="3848811332" ref="first-project-the-lot:mex:shape"/>
+    <file name="img_264768x45.jpg" crc="262688705" seo="true" ref="first-project-the-lot">
+      <caption webpage="first-project-the-lot" alt=""/>
+    </file>
+    <file name="img_264868x45.jpg" crc="277234308" seo="true" ref="first-project-the-lot">
+      <caption webpage="first-project-the-lot" alt=""/>
+    </file>
+    <file name="img_264468x45.jpg" crc="4181763713" seo="true" ref="first-project-the-lot">
+      <caption webpage="first-project-the-lot" alt=""/>
+    </file>
+    <file name="img_265268x45.jpg" crc="4268695786" seo="true" ref="first-project-the-lot">
+      <caption webpage="first-project-the-lot" alt=""/>
+    </file>
+    <file name="img_265468x45.jpg" crc="303453922" seo="true" ref="first-project-the-lot">
+      <caption webpage="first-project-the-lot" alt=""/>
+    </file>
+    <file name="img_265668x45.jpg" crc="4077456485" seo="true" ref="first-project-the-lot">
+      <caption webpage="first-project-the-lot" alt=""/>
+    </file>
+    <file name="img_265768x45.jpg" crc="3920741953" seo="true" ref="first-project-the-lot">
+      <caption webpage="first-project-the-lot" alt=""/>
+    </file>
+    <file name="img_266068x45.jpg" crc="238233681" seo="true" ref="first-project-the-lot">
+      <caption webpage="first-project-the-lot" alt=""/>
+    </file>
+    <file name="the-lot-app-crop-u9086.jpg" crc="506216431" seo="true" ref="first-project-the-lot">
+      <caption webpage="first-project-the-lot" alt=""/>
+    </file>
+    <file name="ad-subway-drive-in64x45.jpg" crc="417595829" seo="true" ref="first-project-the-lot">
+      <caption webpage="first-project-the-lot" alt=""/>
+    </file>
+    <file name="sub-1-ad64x45.jpg" crc="4104393390" seo="true" ref="first-project-the-lot">
+      <caption webpage="first-project-the-lot" alt=""/>
+    </file>
+    <file name="u2191-7.png" crc="414888850" ref="mex"/>
+    <file name="mex-cover-3.jpg" crc="4142941406" seo="true" ref="mex">
+      <caption webpage="mex" alt=""/>
+    </file>
+    <file name="mexwebsite-1.jpg" crc="3939897311" seo="true" ref="mex">
+      <caption webpage="mex" alt=""/>
+    </file>
+    <file name="website-2.jpg" crc="3818906637" seo="true" ref="mex">
+      <caption webpage="mex" alt=""/>
+    </file>
+    <file name="business-card.jpg" crc="426073648" seo="true" ref="mex">
+      <caption webpage="mex" alt=""/>
+    </file>
+    <file name="mex-app-1-page.jpg" crc="344078618" seo="true" ref="mex">
+      <caption webpage="mex" alt=""/>
+    </file>
+    <file name="mex-app-2-page.jpg" crc="3788476009" seo="true" ref="mex">
+      <caption webpage="mex" alt=""/>
+    </file>
+    <file name="bottle-mex.jpg" crc="313550166" seo="true" ref="mex">
+      <caption webpage="mex" alt=""/>
+    </file>
+    <file name="de-tela-mex.jpg" crc="3889400991" seo="true" ref="mex">
+      <caption webpage="mex" alt=""/>
+    </file>
+    <file name="new-sicount-.jpg" crc="4091935828" seo="true" ref="mex">
+      <caption webpage="mex" alt=""/>
+    </file>
+    <file name="mexwebsite-1-crop-u6370.jpg" crc="318338367" seo="true" ref="mex">
+      <caption webpage="mex" alt=""/>
+    </file>
+    <file name="website-2-crop-u6303.jpg" crc="404209401" seo="true" ref="mex">
+      <caption webpage="mex" alt=""/>
+    </file>
+    <file name="business-card-crop-u9559.jpg" crc="246015684" seo="true" ref="mex">
+      <caption webpage="mex" alt=""/>
+    </file>
+    <file name="mex-app-1-page-crop-u6042.jpg" crc="3831193291" seo="true" ref="mex">
+      <caption webpage="mex" alt=""/>
+    </file>
+    <file name="mex-app-2-page-crop-u6057.jpg" crc="221919478" seo="true" ref="mex">
+      <caption webpage="mex" alt=""/>
+    </file>
+    <file name="bottle-mex-crop-u9495.jpg" crc="4172755553" seo="true" ref="mex">
+      <caption webpage="mex" alt=""/>
+    </file>
+    <file name="de-tela-mex-crop-u9536.jpg" crc="4057814467" seo="true" ref="mex">
+      <caption webpage="mex" alt=""/>
+    </file>
+    <file name="new-sicount--crop-u9522.jpg" crc="510313624" seo="true" ref="mex">
+      <caption webpage="mex" alt=""/>
+    </file>
+    <file name="u2832-6.png" crc="3914812414" ref="groomd"/>
+    <file name="groomd-intro.jpg" crc="107649348" seo="true" ref="groomd">
+      <caption webpage="groomd" alt=""/>
+    </file>
+    <file name="new-groomd-ipad-12.jpg" crc="3806558127" seo="true" ref="groomd">
+      <caption webpage="groomd" alt=""/>
+    </file>
+    <file name="groomd-ipad-2.jpg" crc="174675860" seo="true" ref="groomd">
+      <caption webpage="groomd" alt=""/>
+    </file>
+    <file name="new-membership-.jpg" crc="3951672065" seo="true" ref="groomd">
+      <caption webpage="groomd" alt=""/>
+    </file>
+    <file name="groomd-cosmetic.jpg" crc="471584969" seo="true" ref="groomd">
+      <caption webpage="groomd" alt=""/>
+    </file>
+    <file name="facebook-page-groomd.jpg" crc="393942130" seo="true" ref="groomd">
+      <caption webpage="groomd" alt=""/>
+    </file>
+    <file name="groomd-business-card.jpg" crc="4120500930" seo="true" ref="groomd">
+      <caption webpage="groomd" alt=""/>
+    </file>
+    <file name="website-2-groomd.jpg" crc="138313512" seo="true" ref="groomd">
+      <caption webpage="groomd" alt=""/>
+    </file>
+    <file name="groomd-websites.jpg" crc="3913768132" seo="true" ref="groomd">
+      <caption webpage="groomd" alt=""/>
+    </file>
+    <file name="close-button.jpg" crc="134201326" ref="groomd">
+      <caption webpage="groomd" alt=""/>
+      <caption webpage="groomd" alt=""/>
+      <caption webpage="groomd" alt=""/>
+    </file>
+    <file name="new-groomd-ipad-12-crop-u8891.jpg" crc="357815026" seo="true" ref="groomd">
+      <caption webpage="groomd" alt=""/>
+    </file>
+    <file name="groomd-ipad-2-crop-u8925.jpg" crc="83708062" seo="true" ref="groomd">
+      <caption webpage="groomd" alt=""/>
+    </file>
+    <file name="new-membership--crop-u8958.jpg" crc="321211909" seo="true" ref="groomd">
+      <caption webpage="groomd" alt=""/>
+    </file>
+    <file name="groomd-cosmetic-crop-u6443.jpg" crc="3853032452" seo="true" ref="groomd">
+      <caption webpage="groomd" alt=""/>
+    </file>
+    <file name="facebook-page-groomd-crop-u6458.jpg" crc="125900298" seo="true" ref="groomd">
+      <caption webpage="groomd" alt=""/>
+    </file>
+    <file name="groomd-business-card-crop-u6473.jpg" crc="4128047989" seo="true" ref="groomd">
+      <caption webpage="groomd" alt=""/>
+    </file>
+    <file name="website-2-groomd-crop-u6543.jpg" crc="124540092" seo="true" ref="groomd">
+      <caption webpage="groomd" alt=""/>
+    </file>
+    <file name="groomd-websites-crop-u6528.jpg" crc="4047892226" seo="true" ref="groomd">
+      <caption webpage="groomd" alt=""/>
+    </file>
+    <file name="new-stationaryshape.jpg" crc="42706189" seo="true" ref="shape">
+      <caption webpage="shape" alt=""/>
+    </file>
+    <file name="shape-app.jpg" crc="4268116897" seo="true" ref="shape">
+      <caption webpage="shape" alt=""/>
+    </file>
+    <file name="new-shape-business-card.jpg" crc="345200410" seo="true" ref="shape">
+      <caption webpage="shape" alt=""/>
+    </file>
+    <file name="shape-website.jpg" crc="4268664543" seo="true" ref="shape">
+      <caption webpage="shape" alt=""/>
+    </file>
+    <file name="new-shape-tags-labels.jpg" crc="4166668225" seo="true" ref="shape">
+      <caption webpage="shape" alt=""/>
+    </file>
+    <file name="new-new-tshirt-mockup-shape.jpg" crc="3966153762" seo="true" ref="shape">
+      <caption webpage="shape" alt=""/>
+    </file>
+    <file name="shape-bags.jpg" crc="169160778" seo="true" ref="shape">
+      <caption webpage="shape" alt=""/>
+    </file>
+    <file name="ad-for-shape.jpg" crc="3812867471" seo="true" ref="shape">
+      <caption webpage="shape" alt=""/>
+    </file>
+    <file name="new-stationaryshape-crop-u9019.jpg" crc="88828980" seo="true" ref="shape">
+      <caption webpage="shape" alt=""/>
+    </file>
+    <file name="shape-app-crop-u6668.jpg" crc="13441950" seo="true" ref="shape">
+      <caption webpage="shape" alt=""/>
+    </file>
+    <file name="new-shape-business-card-crop-u8999.jpg" crc="388225930" seo="true" ref="shape">
+      <caption webpage="shape" alt=""/>
+    </file>
+    <file name="shape-website-crop-u6714.jpg" crc="297211806" seo="true" ref="shape">
+      <caption webpage="shape" alt=""/>
+    </file>
+    <file name="new-shape-tags-labels-crop-u9120.jpg" crc="316080834" seo="true" ref="shape">
+      <caption webpage="shape" alt=""/>
+    </file>
+    <file name="new-new-tshirt-mockup-shape-crop-u9160.jpg" crc="3993550669" seo="true" ref="shape">
+      <caption webpage="shape" alt=""/>
+    </file>
+    <file name="shape-bags-crop-u6768.jpg" crc="3840013678" seo="true" ref="shape">
+      <caption webpage="shape" alt=""/>
+    </file>
+    <file name="ad-for-shape-crop-u9642.jpg" crc="4239218021" seo="true" ref="shape">
+      <caption webpage="shape" alt=""/>
+    </file>
+    <file name="shape-intro.jpg" crc="3775734872" seo="true" ref="shape">
+      <caption webpage="shape" alt=""/>
+    </file>
+    <file name="u6843-4.png" crc="54665205" ref="about-me"/>
+    <file name="twitter button.jpg" crc="4145910546" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="twitter button-rollover.png" crc="347783757" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="linkin button.jpg" crc="59416961" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="linkin button-rollover.png" crc="4094369317" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="facebook button.jpg" crc="3859565870" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="facebook button-rollover.png" crc="4198018379" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="black - white button 2-layer 1.jpg" crc="166236772" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="black - white button 2.jpg" crc="286269406" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="screen shot 2014-06-19 at 91553 pm.jpg" crc="384712994" seo="true" ref="other-projects">
+      <caption webpage="other-projects" alt=""/>
+      <caption webpage="other-projects" alt=""/>
+    </file>
+    <file name="screen shot 2014-06-19 at 93826 pm-crop-u9871.jpg" crc="10891064" seo="true" ref="other-projects">
+      <caption webpage="other-projects" alt=""/>
+    </file>
+    <file name="screen shot 2014-06-19 at 94110 pm-crop-u9897.jpg" crc="470283416" seo="true" ref="other-projects">
+      <caption webpage="other-projects" alt=""/>
+    </file>
+    <file name="screen shot 2014-06-19 at 92902 pm-crop-u9847.jpg" crc="3846157003" seo="true" ref="other-projects">
+      <caption webpage="other-projects" alt=""/>
+    </file>
+    <file name="screen shot 2014-06-19 at 105336 pm-crop-u11059.jpg" crc="3848803033" seo="true" ref="other-projects">
+      <caption webpage="other-projects" alt=""/>
+    </file>
+    <file name="screen shot 2014-06-19 at 105002 pm124x111.jpg" crc="4231611657" seo="true" ref="other-projects">
+      <caption webpage="other-projects" alt=""/>
+    </file>
+    <file name="screen shot 2014-06-19 at 94600 pm-crop-u9914.jpg" crc="14864835" seo="true" ref="other-projects">
+      <caption webpage="other-projects" alt=""/>
+    </file>
+    <file name="dsc01028129x94.jpg" crc="4217870446" seo="true" ref="other-projects">
+      <caption webpage="other-projects" alt=""/>
+    </file>
+    <file name="screen shot 2014-06-19 at 93826 pm.jpg" crc="3853147288" seo="true" ref="other-projects">
+      <caption webpage="other-projects" alt=""/>
+    </file>
+    <file name="screen shot 2014-06-19 at 94110 pm.jpg" crc="207838114" seo="true" ref="other-projects">
+      <caption webpage="other-projects" alt=""/>
+    </file>
+    <file name="screen shot 2014-06-19 at 92902 pm.jpg" crc="4159307436" seo="true" ref="other-projects">
+      <caption webpage="other-projects" alt=""/>
+    </file>
+    <file name="screen shot 2014-06-19 at 105336 pm.jpg" crc="3863200495" seo="true" ref="other-projects">
+      <caption webpage="other-projects" alt=""/>
+    </file>
+    <file name="screen shot 2014-06-19 at 105002 pm.jpg" crc="153954659" seo="true" ref="other-projects">
+      <caption webpage="other-projects" alt=""/>
+    </file>
+    <file name="screen shot 2014-06-19 at 94600 pm.jpg" crc="131200055" seo="true" ref="other-projects">
+      <caption webpage="other-projects" alt=""/>
+    </file>
+    <file name="dsc01028.jpg" crc="484010696" seo="true" ref="other-projects:hand-lettering">
+      <caption webpage="other-projects" alt=""/>
+      <caption webpage="hand-lettering" alt=""/>
+    </file>
+    <file name="dsc00987-crop-u10843.jpg" crc="4107747803" seo="true" ref="hand-lettering">
+      <caption webpage="hand-lettering" alt=""/>
+    </file>
+    <file name="dsc00988-crop-u10852.jpg" crc="3954462937" seo="true" ref="hand-lettering">
+      <caption webpage="hand-lettering" alt=""/>
+    </file>
+    <file name="dsc00989.jpg" crc="4197065707" seo="true" ref="hand-lettering">
+      <caption webpage="hand-lettering" alt=""/>
+    </file>
+    <file name="dsc00996.jpg" crc="393698115" seo="true" ref="hand-lettering">
+      <caption webpage="hand-lettering" alt=""/>
+    </file>
+    <file name="dsc00997.jpg" crc="4111221119" seo="true" ref="hand-lettering">
+      <caption webpage="hand-lettering" alt=""/>
+    </file>
+    <file name="dsc00999-crop-u10888.jpg" crc="4255061595" seo="true" ref="hand-lettering">
+      <caption webpage="hand-lettering" alt=""/>
+    </file>
+    <file name="dsc01003-crop-u10897.jpg" crc="4221573100" seo="true" ref="hand-lettering">
+      <caption webpage="hand-lettering" alt=""/>
+    </file>
+    <file name="dsc01004.jpg" crc="74966829" seo="true" ref="hand-lettering">
+      <caption webpage="hand-lettering" alt=""/>
+    </file>
+    <file name="dsc01009.jpg" crc="4015441909" seo="true" ref="hand-lettering">
+      <caption webpage="hand-lettering" alt=""/>
+    </file>
+    <file name="dsc01010.jpg" crc="174386541" seo="true" ref="hand-lettering">
+      <caption webpage="hand-lettering" alt=""/>
+    </file>
+    <file name="dsc01011.jpg" crc="399225665" seo="true" ref="hand-lettering">
+      <caption webpage="hand-lettering" alt=""/>
+    </file>
+    <file name="dsc01014.jpg" crc="3475050" seo="true" ref="hand-lettering">
+      <caption webpage="hand-lettering" alt=""/>
+    </file>
+    <file name="dsc01015.jpg" crc="3808722304" seo="true" ref="hand-lettering">
+      <caption webpage="hand-lettering" alt=""/>
+    </file>
+    <file name="dsc01017.jpg" crc="3865400640" seo="true" ref="hand-lettering">
+      <caption webpage="hand-lettering" alt=""/>
+    </file>
+    <file name="dsc01024.jpg" crc="4051656496" seo="true" ref="hand-lettering">
+      <caption webpage="hand-lettering" alt=""/>
+    </file>
+    <file name="dsc01025.jpg" crc="68484440" seo="true" ref="hand-lettering">
+      <caption webpage="hand-lettering" alt=""/>
+    </file>
+    <file name="dsc01029.jpg" crc="3804247066" seo="true" ref="hand-lettering">
+      <caption webpage="hand-lettering" alt=""/>
+    </file>
+    <file name="dsc01031-crop-u10996.jpg" crc="468816974" seo="true" ref="hand-lettering">
+      <caption webpage="hand-lettering" alt=""/>
+    </file>
+    <file name="dsc01033.jpg" crc="346334899" seo="true" ref="hand-lettering">
+      <caption webpage="hand-lettering" alt=""/>
+    </file>
+    <file name="dsc01037.jpg" crc="4125885201" seo="true" ref="hand-lettering">
+      <caption webpage="hand-lettering" alt=""/>
+    </file>
+    <file name="dsc01042-crop-u11023.jpg" crc="176997528" seo="true" ref="hand-lettering">
+      <caption webpage="hand-lettering" alt=""/>
+    </file>
+    <file name="dsc01047.jpg" crc="3899025833" seo="true" ref="hand-lettering">
+      <caption webpage="hand-lettering" alt=""/>
+    </file>
+    <file name="dsc01048.jpg" crc="351239590" seo="true" ref="hand-lettering">
+      <caption webpage="hand-lettering" alt=""/>
+    </file>
+    <file name="screen shot 2014-06-19 at 111259 pm.jpg" crc="137716168" seo="true" ref="animation-video">
+      <caption webpage="animation-video" alt=""/>
+      <caption webpage="animation-video" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_motions.css" crc="400281038" ref="phone>index"/>
+      <file name="master_static.css" crc="356535843" ref="phone>about-me:phone>groomd:phone>shape:phone>portfolio:phone>contact-me:phone>the-lot:phone>mex"/>
+      <file name="about-me.css" crc="4069703962" ref="phone>about-me"/>
+      <file name="groomd.css" crc="4077486475" ref="phone>groomd"/>
+      <file name="shape.css" crc="4180270140" ref="phone>shape"/>
+      <file name="portfolio.css" crc="4054397092" ref="phone>portfolio"/>
+      <file name="contact-me.css" crc="207183363" ref="phone>contact-me"/>
+      <file name="index.css" crc="4103527870" ref="phone>index"/>
+      <file name="the-lot.css" crc="3957238299" ref="phone>the-lot"/>
+      <file name="mex.css" crc="159174217" ref="phone>mex"/>
+    </folder>
+    <file name="index.html" crc="484408906" seo="true" mt="1524026810776" redirect="true"/>
+    <file name="portfolio.html" crc="375886219" seo="true" mt="1524026810725" redirect="true"/>
+    <file name="groomd.html" crc="263590881" seo="true" mt="1524026810725" redirect="true"/>
+    <file name="shape.html" crc="3797440330" seo="true" mt="1524026810725" redirect="true"/>
+    <file name="about-me.html" crc="308206428" seo="true" mt="1524026810725" redirect="true"/>
+    <file name="contact-me.html" crc="4242684388" seo="true" mt="1524026810725" redirect="true"/>
+    <file name="mex.html" crc="3982290843" seo="true" mt="1524026810725" redirect="true"/>
+    <file name="the-lot.html" crc="3882675266" seo="true" mt="1524026810725" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="357589111" seo="true" mt="1524026810867" redirect="true"/>
+  <file name="first-project-the-lot.html" crc="262846430" seo="true" mt="1524026810835" redirect="true"/>
+  <file name="mex.html" crc="3831216827" seo="true" mt="1524026810835" redirect="true"/>
+  <file name="groomd.html" crc="319364904" seo="true" mt="1524026810835" redirect="true"/>
+  <file name="shape.html" crc="3892924768" seo="true" mt="1524026810835" redirect="true"/>
+  <file name="about-me.html" crc="184970438" seo="true" mt="1524026810835" redirect="true"/>
+  <file name="contact-me.html" crc="3796269046" seo="true" mt="1524026810835" redirect="true"/>
+  <file name="other-projects.html" crc="3771443913" seo="true" mt="1524026810835" redirect="true"/>
+  <file name="hand-lettering.html" crc="4167965693" seo="true" mt="1524026810835" redirect="true"/>
+  <file name="animation-video.html" crc="4047383123" seo="true" mt="1524026810835" redirect="true"/>
+</manifest>
